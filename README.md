@@ -7,7 +7,7 @@ Here's the E-R diagram for the database, provided by the same website.
 ![image](https://github.com/ChWNg000/SQL-Project-1/assets/132183554/dfbeb495-ff76-4566-9abc-b02b436bf8bf)
 
 ## Goal
-The purpose of the project was to examine what the relationship between the total rental revenue made by each film and factors like
+The purpose of the project was to examine the relationship between the total rental revenue made by each film and factors like
 the genre of the film, age-restrictions on the film and the rental rate.
 
 ## Queries
