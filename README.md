@@ -3,7 +3,7 @@
 Welcome, this is my SQL project where I query on a  sample database representing a database for a film rental business. The link can be found 
 here https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 
-Here's the E-R diagram for the database, provided by the website. 
+Here's the E-R diagram for the database, provided by the same website. 
 ![image](https://github.com/ChWNg000/SQL-Project-1/assets/132183554/dfbeb495-ff76-4566-9abc-b02b436bf8bf)
 
 ## Goal
